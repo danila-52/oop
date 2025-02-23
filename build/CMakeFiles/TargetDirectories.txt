@@ -1,0 +1,3 @@
+C:/Users/обезьян337/source/repos/danila-52/oop/build/CMakeFiles/Lab1.dir
+C:/Users/обезьян337/source/repos/danila-52/oop/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/обезьян337/source/repos/danila-52/oop/build/CMakeFiles/ZERO_CHECK.dir

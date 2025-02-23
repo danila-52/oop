@@ -1,0 +1,10 @@
+^C:\USERS\ОБЕЗЬЯН337\SOURCE\REPOS\DANILA-52\OOP\BUILD\CMAKEFILES\15131F2A9F552462C8A5526093C7EA04\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/обезьян337/source/repos/danila-52/oop -BC:/Users/обезьян337/source/repos/danila-52/oop/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/обезьян337/source/repos/danila-52/oop/build/Lab1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
