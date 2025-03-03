@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 void priv() {
-    cout << "Hello" << endl;
+    cout << "privet" << endl;
 }
 int add(int a, int b) {
      return a + b;
